@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on a secure web app to store and manage resale inventory. Passionate about helping small businesses leverage tech.
 - 🌱 I’m currently learning about cybersecurity to build safer, privacy-first applications. Because trust starts with how you handle data.
 - 👯 I’m looking to collaborate on AI-powered solutions for small business operations. Especially around product tracking, sales insights, and secure data management.
-- 🤔 I’m looking for help with career development.
+- 🤝 If you have advice, want to team up, or just chat tech? Please feel free to reach out!
 - 💬 Ask me about anything.
 - 📫 How to reach me: Nicole.Scheid@protonmail.com
 - 😄 Pronouns: She/Her
