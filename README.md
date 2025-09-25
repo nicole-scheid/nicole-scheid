@@ -1,10 +1,10 @@
 # About me
 
-- 🔭 I’m currently working on a secure web app to store and manage resale inventory. Passionate about helping small businesses leverage tech.
-- 🌱 I’m currently learning about cybersecurity to build safer, privacy-first applications. Because trust starts with how you handle data.
-- 👯 I’m looking to collaborate on AI-powered solutions for small business operations. Especially around product tracking, sales insights, and secure data management.
-- 🤝 If you have advice, want to team up, or just chat tech? Please feel free to reach out!
-- 💬 Ask me about anything.
-- 📫 How to reach me: Nicole.Scheid@protonmail.com
+- 🔭 I'm currently building a secure web app to help small businesses manage resale inventory. Passionate about empowering small teams with accessible, impactful tech.
+- 🌱 Deepening my knowledge in cybersecurity to create safer, privacy-first applications. Because trust starts with how you handle data.
+- 👯 Looking to collaborate on AI-powered solutions for small business operations, especially in product tracking, sales insights, and secure data management.
+- 🤝 Got advice, want to team up, or just chat tech? I'd love to hear from you!
+- 💬 Ask me about anything. I'm always up for a good conversation.
+- 📫 Reach me at: Nicole.Scheid@protonmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: Grew up watching only Disney and Pixar on a box TV. Maybe that’s why I believe great experiences should be simple, clear, and accessible.
